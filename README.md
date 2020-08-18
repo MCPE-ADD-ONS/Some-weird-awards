@@ -1,5 +1,6 @@
 # Some-weird-awards
-repository of "some weird awards" addon for Minecraft bedrock edition
+repository of "some weird awards" addon for Minecraft bedrock edition.
+
 This repository contains textures and behavior for the "some weird awards" addon.
 
 # Note
