@@ -1,4 +1,5 @@
 # Some-weird-awards
+![some-weird-awards_1(1)](https://user-images.githubusercontent.com/58362788/90551533-add87700-e1bb-11ea-9fbd-c7d809bfcf67.png)
 repository of "some weird awards" addon for Minecraft bedrock edition.
 
 This repository contains textures and behavior for the "some weird awards" addon.
