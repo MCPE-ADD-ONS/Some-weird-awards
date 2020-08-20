@@ -25,6 +25,10 @@
     "coinz":
     {
        "textures":"textures/items/coinz.png"
+    },
+    "awardpo":
+    {
+       "textures":"textures/items/coinz.png"
     }
   }
 }
