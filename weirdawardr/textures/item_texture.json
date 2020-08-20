@@ -17,6 +17,10 @@
     "awardf":
     {
       "textures":"textures/items/f.png"
+    },
+    "awardtam":
+    {
+      "textures":"textures/items/tam.png"
     }
   }
 }
