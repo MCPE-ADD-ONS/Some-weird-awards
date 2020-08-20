@@ -1,0 +1,23 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "#"
+        ],
+        "key": {
+            "#": {
+                "item": "award:awardplatinum"
+            }
+        },
+        "result": {
+            "item": "award:coinz",
+            "count": 8
+        },
+        "description": {
+            "identifier": "awardcraft:coinz4"
+        }
+    }
+}

@@ -21,6 +21,10 @@
     "awardtam":
     {
       "textures":"textures/items/tam.png"
+    },
+    "coinz":
+    {
+       "textures":"textures/items/coinz.png"
     }
   }
 }
