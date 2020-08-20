@@ -13,6 +13,14 @@
     "awardsilver":
     {
       "textures":"textures/items/awardsilver.png"
+    },
+    "awardf":
+    {
+      "textures":"textures/items/f.png"
+    },
+    "awardtam":
+    {
+      "textures":"textures/items/tam.png"
     }
   }
 }
