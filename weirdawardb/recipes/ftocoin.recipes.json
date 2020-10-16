@@ -1,0 +1,26 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "   ",
+            " # ",
+            "   "
+        ],
+        "key": {
+            "#": {
+                "item": "award:f"
+            },
+           
+        },
+        "result": {
+            "item": "award:coin",
+            "count": "12"
+        },
+        "description": {
+            "identifier": "awardcraft:ftocoin"
+        }
+    }
+}
