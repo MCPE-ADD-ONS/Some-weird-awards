@@ -1,0 +1,24 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "   "
+            " g "
+            "   "
+        ],
+        "key": {
+            "g": {
+                "item": "award:awardsilver"
+        },
+        "result": {
+            "item": "award:coin",
+            "count": 10
+        },
+        "description": {
+            "identifier": "awardcraft:silvertocoin"
+        }
+    }
+}
