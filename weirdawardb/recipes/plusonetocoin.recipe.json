@@ -1,0 +1,24 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "   "
+            " g "
+            "   "
+        ],
+        "key": {
+            "g": {
+                "item": "award:awardpo"
+        },
+        "result": {
+            "item": "award:coin",
+            "count": 50
+        },
+        "description": {
+            "identifier": "awardcraft:plusonetocoin"
+        }
+    }
+}

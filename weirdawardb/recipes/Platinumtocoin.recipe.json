@@ -1,0 +1,25 @@
+
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "   "
+            " g "
+            "   "
+        ],
+        "key": {
+            "g": {
+                "item": "award:awardPlatinum"
+        },
+        "result": {
+            "item": "award:coin",
+            "count": 42
+        },
+        "description": {
+            "identifier": "awardcraft:Platinumtocoin"
+        }
+    }
+}
