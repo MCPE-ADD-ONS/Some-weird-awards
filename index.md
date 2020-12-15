@@ -1,8 +1,51 @@
-layout: page
-title: "Some-weird-awards"
 
 ## Some Weird awards is a mod for minecraft bedrock that add awards
 
 <img src="https://user-images.githubusercontent.com/58362788/90771464-84376100-e31d-11ea-9885-b06e1081c93d.png" alt="hi" class="inline"/>
 
 Download here: https://github.com/MCPE-ADD-ONS/Some-weird-awards/releases
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p xmlns:dct="http://purl.org/dc/terms/" xmlns:cc="http://creativecommons.org/ns#" class="license-text"><a rel="cc:attributionURL" property="dct:title" href="https://mcpe-add-ons.github.io/Some-weird-awards/">Some-weird-awards</a> by <span property="cc:attributionName">MCPE-ADD-ONS</span> is licensed under <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" /><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" /><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" /><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" /></a></p>
