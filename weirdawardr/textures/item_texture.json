@@ -22,6 +22,10 @@
     {
       "textures":"textures/items/tam.png"
     },
+      "coin":
+    {
+      "textures":"textures/items/awardcoin.png"
+    },
    "awardpo":
     {
        "textures":"textures/items/plusone.png"
