@@ -3,8 +3,7 @@
 
 <img src="https://user-images.githubusercontent.com/58362788/90771464-84376100-e31d-11ea-9885-b06e1081c93d.png" alt="hi" class="inline"/>
 
-><a href="https://github.com/MCPE-ADD-ONS/Some-weird-awards/releases"" target="_parent">DOWNLOAD HERE</a> 
-
+<a href="https://github.com/MCPE-ADD-ONS/Some-weird-awards/releases">DOWNLOAD HERE</a>
 
 
 
